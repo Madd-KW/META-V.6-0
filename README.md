@@ -19,4 +19,4 @@ PASSWORD : metaroyid
 
 thanks & enjoy! 
 
-Jangan Lupa Bintang + Follow Ya Kaka :v
+[ Jangan Lupa Bintang + Follow Ya Kaka ]
