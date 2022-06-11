@@ -1,17 +1,28 @@
-# META
-META V-6.0 FREE
-
-LOGIN WITH COOKIE METHOD
-
-USER : meta
-
-PASSWORD : royid
-
-after dump asking user & pass
-
-USER : meta
-
-PASSWORD : metaroyid
+# pkg update && pkg upgrade
 
 
-its free ' thanks to ROY-META
+# pkg install git
+
+
+# pkg install python
+
+
+# pip install requests
+
+
+# pip install bs4
+
+
+# pip install futures
+
+
+# git clone https://github.com/MN4WN1-777/FBNEW
+
+
+# cd fbnew
+
+
+# git pull
+
+
+# python fbnew.py
